@@ -15,7 +15,7 @@ This repository contains my solutions to various LeetCode coding questions. Each
 ### [Two Sum](https://leetcode.com/problems/two-sum/)
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-- [Solution](Link to Your Solution)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/two_sum.py)
 
 ### [Another Problem Title](Link to LeetCode Problem)
 Short description of the problem.
