@@ -9,12 +9,11 @@ This repository contains my solutions to various LeetCode coding questions. Each
 - [String](#string)
 - [Linked List](#linked-list)
 - [Tree](#tree)
-- ... (add more categories as needed)
 
 ## Array
 
-### [Problem Title](Link to LeetCode Problem)
-Short description of the problem.
+### [Two Sum](https://leetcode.com/problems/two-sum/)
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 - [Solution](Link to Your Solution)
 
