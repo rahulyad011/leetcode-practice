@@ -2,15 +2,18 @@
 
 This repository contains my solutions to various LeetCode coding questions. Each problem is linked to its corresponding LeetCode page, and my solution is also provided.
 
+I Followed this curated list:
+- [Grind75] (https://www.techinterviewhandbook.org/grind75)
+
 ## Table of Contents
 
-<!-- Use this section to provide quick navigation links to different categories of problems. -->
-- [Array](#array)
-- [String](#string)
-- [Linked List](#linked-list)
-- [Tree](#tree)
+<!-- Use this section to provide quick navigation links to 7 week of challenge and the associated problems with solutions. -->
+- [Week1](#week1)
+- [Week2](#week2)
+- [Week3](#week3)
+- [Week4](#week4)
 
-## Array
+## Week1
 
 ### [Two Sum](https://leetcode.com/problems/two-sum/)
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
@@ -22,7 +25,7 @@ Short description of the problem.
 
 - [Solution](Link to Your Solution)
 
-## String
+## Week2
 
 ### [Problem Title](Link to LeetCode Problem)
 Short description of the problem.
@@ -33,32 +36,6 @@ Short description of the problem.
 Short description of the problem.
 
 - [Solution](Link to Your Solution)
-
-## Linked List
-
-### [Problem Title](Link to LeetCode Problem)
-Short description of the problem.
-
-- [Solution](Link to Your Solution)
-
-### [Another Problem Title](Link to LeetCode Problem)
-Short description of the problem.
-
-- [Solution](Link to Your Solution)
-
-## Tree
-
-### [Problem Title](Link to LeetCode Problem)
-Short description of the problem.
-
-- [Solution](Link to Your Solution)
-
-### [Another Problem Title](Link to LeetCode Problem)
-Short description of the problem.
-
-- [Solution](Link to Your Solution)
-
-<!-- Add more categories and problems as needed -->
 
 ## Contributing
 
