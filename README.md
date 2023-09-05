@@ -15,15 +15,15 @@ I Followed this curated list:
 
 ## Week1
 
-### [Two Sum](https://leetcode.com/problems/two-sum/)
+### [P1-Two Sum](https://leetcode.com/problems/two-sum/)
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/two_sum.py)
 
-### [Another Problem Title](Link to LeetCode Problem)
-Short description of the problem.
+### [P20-Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-- [Solution](Link to Your Solution)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid_parentheses.py)
 
 ## Week2
 
