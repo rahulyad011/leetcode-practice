@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to various LeetCode coding questions. Each problem is linked to its corresponding LeetCode page, and my solution is also provided.
+This repository contains my solutions to my selected LeetCode coding questions. Each problem is linked to its corresponding LeetCode page, and my solution is also provided with a brief explaination.
 
 I Followed this curated list:
 - [Grind75] (https://www.techinterviewhandbook.org/grind75)
@@ -35,14 +35,14 @@ You are given an array prices where prices[i] is the price of a given stock on t
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/best-time-to-buy-and-sell-stock.py)
 
+### [P125-Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid-palindrome.py)
+
 ## Week2
 
 ### [Problem Title](Link to LeetCode Problem)
-Short description of the problem.
-
-- [Solution](Link to Your Solution)
-
-### [Another Problem Title](Link to LeetCode Problem)
 Short description of the problem.
 
 - [Solution](Link to Your Solution)
