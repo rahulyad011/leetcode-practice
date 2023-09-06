@@ -25,6 +25,16 @@ Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid_parentheses.py)
 
+### [P21-Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/merge-two-sorted-lists.py.py)
+
+### [P121-Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/best-time-to-buy-and-sell-stock.py)
+
 ## Week2
 
 ### [Problem Title](Link to LeetCode Problem)
