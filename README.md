@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-This repository contains my solutions to various LeetCode coding questions. Each problem is linked to its corresponding LeetCode page, and my solution is also provided.
+This repository contains my solutions to my selected LeetCode coding questions. Each problem is linked to its corresponding LeetCode page, and my solution is also provided with a brief explaination.
 
-I Followed this curated list:
+Grind75 curated list:
 - [Grind75] (https://www.techinterviewhandbook.org/grind75)
 
-## Table of Contents
+## Table of Contents (Grind 75)
 
 <!-- Use this section to provide quick navigation links to 7 week of challenge and the associated problems with solutions. -->
 - [Week1](#week1)
@@ -28,12 +28,33 @@ Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
 ### [P21-Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/merge-two-sorted-lists.py.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/merge-two-sorted-lists.py)
 
 ### [P121-Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/best-time-to-buy-and-sell-stock.py)
+
+### [P125-Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid-palindrome.py)
+
+### [P226-Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+Given the root of a binary tree, invert the tree, and return its root.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/invert-binary-tree.py)
+
+### [P242-Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+Given two strings s and t, return true if t is an anagram of s, and false otherwise. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid-anagram.py)
+
+### [P704-Binary Search](https://leetcode.com/problems/binary-search)
+Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/binary-search.py)
+
 
 ## Week2
 
@@ -42,7 +63,36 @@ Short description of the problem.
 
 - [Solution](Link to Your Solution)
 
-### [Another Problem Title](Link to LeetCode Problem)
+Topic Wise Leetcode Problem list:
+
+## Table of Contents (Topic Wise)
+
+<!-- Use this section to provide quick navigation links to different data structures with the associated problems and solutions. -->
+- [Heap](#Heap)
+- [](#)
+- [](#)
+- [](#)
+
+## Heap
+
+### [P703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
+Design a class to find the kth largest element in a stream. Note that it is the kth largest element in the sorted order, not the kth distinct element.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/kth-largest-element-in-a-stream.py)
+
+### [P1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+You are given an array of integers stones where stones[i] is the weight of the ith stone. At the end of the game, there is at most one stone left. Return the weight of the last remaining stone. If there are no stones left, return 0.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/kth-largest-element-in-an-array.py)
+
+### [P215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+Given an integer array nums and an integer k, return the kth largest element in the array.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/last-stone-weight.py)
+
+## Topic2
+
+### [Problem Title](Link to LeetCode Problem)
 Short description of the problem.
 
 - [Solution](Link to Your Solution)
