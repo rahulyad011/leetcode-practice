@@ -40,6 +40,22 @@ You are given an array prices where prices[i] is the price of a given stock on t
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid-palindrome.py)
 
+### [P226-Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+Given the root of a binary tree, invert the tree, and return its root.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/invert-binary-tree.py)
+
+### [P242-Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+Given two strings s and t, return true if t is an anagram of s, and false otherwise. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid-anagram.py)
+
+### [P704-Binary Search](https://leetcode.com/problems/binary-search)
+Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/binary-search.py)
+
+
 ## Week2
 
 ### [Problem Title](Link to LeetCode Problem)
