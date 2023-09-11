@@ -55,6 +55,33 @@ Given an array of integers nums which is sorted in ascending order, and an integ
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/binary-search.py)
 
+### [P733-Flood Fill](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+To perform a flood fill, consider the starting pixel, plus any pixels connected 4-directionally to the starting pixel of the same color as the starting pixel, plus any pixels connected 4-directionally to those pixels (also with the same color), and so on. Replace the color of all of the aforementioned pixels with color.
+
+Return the modified image after performing the flood fill.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/flood-fill.py)
+
+### [P235-Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/valid-palindrome)
+Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/lowest-common-ancestor-of-a-binary-search-tree.py)
+
+### [P110-Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+Given a binary tree, determine if it is height-balanced.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/balanced-binary-tree.py)
+
+### [P141-Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+Return true if there is a cycle in the linked list. Otherwise, return false.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/linked-list-cycle.py)
+
+### [P232-Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/implement-queue-using-stacks.py)
+
 
 ## Week2
 
