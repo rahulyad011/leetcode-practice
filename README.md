@@ -85,10 +85,39 @@ Given an array of integers nums which is sorted in ascending order, and an integ
 
 ## Week2
 
-### [Problem Title](Link to LeetCode Problem)
-Short description of the problem.
+### [P278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+You are given an API bool isBadVersion(version) which returns whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.
 
-- [Solution](Link to Your Solution)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/first-bad-version.py)
+
+### [P383. Ransom Note](https://leetcode.com/problems/ransom-note/)
+Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
+Each letter in magazine can only be used once in ransomNote.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/ransom-note.py)
+
+### [P70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+You are climbing a staircase. It takes n steps to reach the top.
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/climbing-stairs.py)
+
+### [P409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+Given a string s which consists of lowercase or uppercase letters, return the length of the longest palindrome that can be built with those letters.
+Letters are case sensitive, for example, "Aa" is not considered a palindrome here.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/longest-palindrome.py)
+
+### [P206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+Given the head of a singly linked list, reverse the list, and return the reversed list.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/reverse-linked-list.py)
+
+### [P169. Majority Element](https://leetcode.com/problems/majority-element/)
+Given an array nums of size n, return the majority element.
+The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/majority-element.py)
 
 Topic Wise Leetcode Problem list:
 
