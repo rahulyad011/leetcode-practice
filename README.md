@@ -144,19 +144,19 @@ You are given an array of integers stones where stones[i] is the weight of the i
 ### [P215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 Given an integer array nums and an integer k, return the kth largest element in the array.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/Heap/last-stone-weight.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Heap/last-stone-weight.py)
 
 ## Dynamic Programming
 
 ### [0-1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
 given two integer arrays val[0..N-1] and wt[0..N-1] which represent values and weights associated with N items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item or dont pick it (0-1 property).
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/DP/0-1_knapsack.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/0-1_knapsack.py)
 
 ### [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
 Given an array of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum. 
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/DP/subset_sum.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/subset_sum.py)
 
 ## Contributing
 
