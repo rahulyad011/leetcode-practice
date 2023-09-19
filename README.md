@@ -134,24 +134,29 @@ Topic Wise Leetcode Problem list:
 ### [P703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 Design a class to find the kth largest element in a stream. Note that it is the kth largest element in the sorted order, not the kth distinct element.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/kth-largest-element-in-a-stream.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Heap/kth-largest-element-in-a-stream.py)
 
 ### [P1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 You are given an array of integers stones where stones[i] is the weight of the ith stone. At the end of the game, there is at most one stone left. Return the weight of the last remaining stone. If there are no stones left, return 0.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/kth-largest-element-in-an-array.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Heap/kth-largest-element-in-an-array.py)
 
 ### [P215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 Given an integer array nums and an integer k, return the kth largest element in the array.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/last-stone-weight.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/Heap/last-stone-weight.py)
 
-## Topic2
+## Dynamic Programming
 
-### [Problem Title](Link to LeetCode Problem)
-Short description of the problem.
+### [0-1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+given two integer arrays val[0..N-1] and wt[0..N-1] which represent values and weights associated with N items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item or dont pick it (0-1 property).
 
-- [Solution](Link to Your Solution)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/DP/0-1_knapsack.py)
+
+### [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+Given an array of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum. 
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/DP/subset_sum.py)
 
 ## Contributing
 
