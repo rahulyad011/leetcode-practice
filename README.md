@@ -126,7 +126,7 @@ The majority element is the element that appears more than ⌊n / 2⌋ times. Yo
 
 <!-- Use this section to provide quick navigation links to different data structures with the associated problems and solutions. -->
 - [Heap](#Heap)
-- [Dynamic_Programming](#Dynamic Programming)
+- [DynamicProgramming](#dynamic-programming)
 - [](#)
 - [](#)
 
