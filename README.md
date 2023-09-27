@@ -5,6 +5,9 @@ This repository contains my solutions to my selected LeetCode coding questions. 
 Grind75 curated list:
 - [Grind75] (https://www.techinterviewhandbook.org/grind75)
 
+Topic Wise Leetcode Problem list:
+- [Topic_Wise](#table-of-contents-topic-wise)
+
 ## Table of Contents (Grind 75)
 
 <!-- Use this section to provide quick navigation links to 7 week of challenge and the associated problems with solutions. -->
@@ -119,13 +122,11 @@ The majority element is the element that appears more than ⌊n / 2⌋ times. Yo
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/majority-element.py)
 
-Topic Wise Leetcode Problem list:
-
 ## Table of Contents (Topic Wise)
 
 <!-- Use this section to provide quick navigation links to different data structures with the associated problems and solutions. -->
 - [Heap](#Heap)
-- [Dynamic Programming](#Dynamic Programming)
+- [Dynamic_Programming](#Dynamic Programming)
 - [](#)
 - [](#)
 
