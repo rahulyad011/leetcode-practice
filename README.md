@@ -125,7 +125,7 @@ Topic Wise Leetcode Problem list:
 
 <!-- Use this section to provide quick navigation links to different data structures with the associated problems and solutions. -->
 - [Heap](#Heap)
-- [](#)
+- [Dynamic Programming](#Dynamic Programming)
 - [](#)
 - [](#)
 
@@ -144,19 +144,61 @@ You are given an array of integers stones where stones[i] is the weight of the i
 ### [P215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 Given an integer array nums and an integer k, return the kth largest element in the array.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/Heap/last-stone-weight.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Heap/last-stone-weight.py)
 
 ## Dynamic Programming
 
 ### [0-1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
 given two integer arrays val[0..N-1] and wt[0..N-1] which represent values and weights associated with N items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item or dont pick it (0-1 property).
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/DP/0-1_knapsack.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/0-1_knapsack.py)
 
 ### [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+Given an array of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/subset_sum.py)
+
+### [Equal Sum Partition](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
+Given an array arr[] of size N, check if it can be partitioned into two parts such that the sum of elements in both parts is the same.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/equal_sum_partition.py)
+
+### [Minimum Subset Sum Diff](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+Given an array arr of size n containing non-negative integers, the task is to divide it into two sets S1 and S2 such that the absolute difference between their sums is minimum and find the minimum difference
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/subsets_with_min_difference.py)
+
+
+### [P494. Target Sum](https://leetcode.com/problems/target-sum/)
+You are given an integer array nums and an integer target.
+You want to build an expression out of nums by adding one of the symbols '+' and '-' before each integer in nums and then concatenate all the integers.
+For example, if nums = [2, 1], you can add a '+' before 2 and a '-' before 1 and concatenate them to build the expression "+2-1".
+Return the number of different expressions that you can build, which evaluates to target.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/target_sum.py)
+
+### [Unbounded Knapsack](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+Given a set of N items, each with a weight and a value, represented by the array w[] and val[] respectively. Also, a knapsack with weight limit W. The task is to fill the knapsack in such a way that we can get the maximum profit. Return the maximum profit. Note: Each item can be taken any number of times.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/unbounded_knapsack.py)
+
+
+### [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+Given a rod of length N inches and an array of prices, price[]. price[i] denotes the value of a piece of length i. Determine the maximum value obtainable by cutting up the rod and selling the pieces.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/cutting_rod.py)
+
+### [P322. Coin Change](https://leetcode.com/problems/coin-change/)
 Given an array of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum. 
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/python_solutions/topic_wise/DP/subset_sum.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/coin_change.py)
+
+### [P518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
+Return the number of combinations that make up that amount. If that amount of money cannot be made up by any combination of the coins, return 0.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/coin_change2.py)
+
 
 ## Contributing
 
