@@ -127,7 +127,7 @@ The majority element is the element that appears more than ⌊n / 2⌋ times. Yo
 <!-- Use this section to provide quick navigation links to different data structures with the associated problems and solutions. -->
 - [Heap](#Heap)
 - [DynamicProgramming](#dynamic-programming)
-- [](#)
+- [SlidingWindow](#sliding-window)
 - [](#)
 
 ## Heap
@@ -199,6 +199,35 @@ You are given an integer array coins representing coins of different denominatio
 Return the number of combinations that make up that amount. If that amount of money cannot be made up by any combination of the coins, return 0.
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/coin_change2.py)
+
+### [P1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+Given two strings text1 and text2, return the length of their longest common subsequence. If there is no common subsequence, return 0.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/longest-common-subsequence.py)
+
+### [P-DP29. Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+Given two strings. The task is to find the length of the longest common substring.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/DP/longest-common-substring.py)
+
+
+## Sliding Window
+
+### [P121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/best-time-to-buy-and-sell-stock.py)
+
+### [P3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+Given a string s, find the length of the longest substring without repeating characters.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/longest-substring-without-repeating-characters.py)
+
+### [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+You are given a string s and an integer k. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most k times.
+Return the length of the longest substring containing the same letter you can get after performing the above operations.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/longest-repeating-character-replacement/.py)
 
 
 ## Contributing
