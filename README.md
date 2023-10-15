@@ -5,8 +5,11 @@ This repository contains my solutions to my selected LeetCode coding questions. 
 Grind75 curated list:
 - [Grind75] (https://www.techinterviewhandbook.org/grind75)
 
-Topic Wise Leetcode Problem list:
+Topic Wise Problem list:
 - [Topic_Wise](#table-of-contents-topic-wise)
+
+Leetcode Contest Problem list:
+- [Leetcode_Contest](#table-of-contents-leetcode-contest)
 
 ## Table of Contents (Grind 75)
 
@@ -128,7 +131,6 @@ The majority element is the element that appears more than ⌊n / 2⌋ times. Yo
 - [Heap](#Heap)
 - [DynamicProgramming](#dynamic-programming)
 - [SlidingWindow](#sliding-window)
-- [LeetcodeContests](#leetcode-contests)
 
 ## Heap
 
@@ -239,6 +241,10 @@ Given a word pat and a text txt. Return the count of the occurrences of anagrams
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/count-occurences-of-anagrams5839.py)
 
+
+## Table of Contents (Leetcode Contest)
+<!-- Use this section to provide quick navigation links to important Leetcode Contest Problems -->
+- [LeetcodeContests](#leetcode-contests)
 
 ## Leetcode Contests
 
