@@ -128,7 +128,7 @@ The majority element is the element that appears more than ⌊n / 2⌋ times. Yo
 - [Heap](#Heap)
 - [DynamicProgramming](#dynamic-programming)
 - [SlidingWindow](#sliding-window)
-- [](#)
+- [LeetcodeContests](#leetcode-contests)
 
 ## Heap
 
@@ -223,9 +223,33 @@ Given a string s, find the length of the longest substring without repeating cha
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/longest-substring-without-repeating-characters.py)
 
-### [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+### [P424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 You are given a string s and an integer k. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most k times.
 Return the length of the longest substring containing the same letter you can get after performing the above operations.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/longest-repeating-character-replacement/.py)
+
+
+## Leetcode Contests
+
+### [P2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
+You are given a 0-indexed integer array nums and a target element target. A target index is an index i such that nums[i] == target. Return a list of the target indices of nums after sorting nums in non-decreasing order. If there are no target indices, return an empty list. The returned list must be sorted in increasing order.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/best-time-to-buy-and-sell-stock.py)
+
+### [P2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
+You are given a 0-indexed array nums of n integers, and an integer k. The k-radius average for a subarray of nums centered at some index i with the radius k is the average of all elements in nums between the indices i - k and i + k (inclusive). If there are less than k elements before or after the index i, then the k-radius average is -1. Build and return an array avgs of length n where avgs[i] is the k-radius average for the subarray centered at index i.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/longest-substring-without-repeating-characters.py)
+
+### [P2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
+You are given a 0-indexed array of distinct integers nums. There is an element in nums that has the lowest value and an element that has the highest value. We call them the minimum and maximum respectively. Your goal is to remove both these elements from the array. A deletion is defined as either removing an element from the front of the array or removing an element from the back of the array. Return the minimum number of deletions it would take to remove both the minimum and maximum element from the array.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/longest-repeating-character-replacement/.py)
+
+### [P2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
+You are given an integer n indicating there are n people numbered from 0 to n - 1. You are also given a 0-indexed 2D integer array meetings where meetings[i] = [xi, yi, timei] indicates that person xi and person yi have a meeting at timei. A person may attend multiple meetings at the same time. Finally, you are given an integer firstPerson.
+Person 0 has a secret and initially shares the secret with a person firstPerson at time 0. This secret is then shared every time a meeting takes place with a person that has the secret. More formally, for every meeting, if a person xi has the secret at timei, then they will share the secret with person yi, and vice versa.
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/longest-repeating-character-replacement/.py)
 
