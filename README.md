@@ -241,6 +241,17 @@ Given a word pat and a text txt. Return the count of the occurrences of anagrams
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/count-occurences-of-anagrams5839.py)
 
+### [P904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+You are visiting a farm that has a single row of fruit trees arranged from left to right. The trees are represented by an integer array fruits where fruits[i] is the type of fruit the ith tree produces.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/fruit-into-baskets.py)
+
+### [P76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+Given two strings s and t of lengths m and n respectively, return the minimum window substring of s such that every character in t (including duplicates) is included in the window. If there is no such substring, return the empty string "".
+The testcases will be generated such that the answer is unique.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/Sliding_Window/minimum-window-substring.py)
+
 
 ## Table of Contents (Leetcode Contest)
 <!-- Use this section to provide quick navigation links to important Leetcode Contest Problems -->
