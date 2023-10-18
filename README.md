@@ -24,69 +24,69 @@ Leetcode Contest Problem list:
 ### [P1-Two Sum](https://leetcode.com/problems/two-sum/)
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/two_sum.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/two_sum.py)
 
 ### [P20-Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid_parentheses.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/valid_parentheses.py)
 
 ### [P21-Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/merge-two-sorted-lists.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/merge-two-sorted-lists.py)
 
 ### [P121-Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/best-time-to-buy-and-sell-stock.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/best-time-to-buy-and-sell-stock.py)
 
 ### [P125-Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid-palindrome.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/valid-palindrome.py)
 
 ### [P226-Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 Given the root of a binary tree, invert the tree, and return its root.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/invert-binary-tree.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/invert-binary-tree.py)
 
 ### [P242-Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 Given two strings s and t, return true if t is an anagram of s, and false otherwise. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/valid-anagram.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/valid-anagram.py)
 
 ### [P704-Binary Search](https://leetcode.com/problems/binary-search)
 Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/binary-search.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/binary-search.py)
 
 ### [P733-Flood Fill](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 To perform a flood fill, consider the starting pixel, plus any pixels connected 4-directionally to the starting pixel of the same color as the starting pixel, plus any pixels connected 4-directionally to those pixels (also with the same color), and so on. Replace the color of all of the aforementioned pixels with color.
 
 Return the modified image after performing the flood fill.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/flood-fill.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/flood-fill.py)
 
 ### [P235-Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/valid-palindrome)
 Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/lowest-common-ancestor-of-a-binary-search-tree.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/lowest-common-ancestor-of-a-binary-search-tree.py)
 
 ### [P110-Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 Given a binary tree, determine if it is height-balanced.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/balanced-binary-tree.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/balanced-binary-tree.py)
 
 ### [P141-Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 Return true if there is a cycle in the linked list. Otherwise, return false.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/linked-list-cycle.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/linked-list-cycle.py)
 
 ### [P232-Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/implement-queue-using-stacks.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/implement-queue-using-stacks.py)
 
 
 ## Week2
@@ -94,36 +94,52 @@ Given an array of integers nums which is sorted in ascending order, and an integ
 ### [P278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 You are given an API bool isBadVersion(version) which returns whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/first-bad-version.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/first-bad-version.py)
 
 ### [P383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
 Each letter in magazine can only be used once in ransomNote.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/ransom-note.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/ransom-note.py)
 
 ### [P70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 You are climbing a staircase. It takes n steps to reach the top.
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/climbing-stairs.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/climbing-stairs.py)
 
 ### [P409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 Given a string s which consists of lowercase or uppercase letters, return the length of the longest palindrome that can be built with those letters.
 Letters are case sensitive, for example, "Aa" is not considered a palindrome here.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/longest-palindrome.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/longest-palindrome.py)
 
 ### [P206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/reverse-linked-list.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/reverse-linked-list.py)
 
 ### [P169. Majority Element](https://leetcode.com/problems/majority-element/)
 Given an array nums of size n, return the majority element.
 The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/majority-element.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/majority-element.py)
+
+### [P67. Add Binary](https://leetcode.com/problems/add-binary/)
+Given two binary strings a and b, return their sum as a binary string.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/add-binary.py)
+
+### [P876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+Given the head of a singly linked list, return the middle node of the linked list.
+If there are two middle nodes, return the second middle node.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/middle-of-the-linked-list.py)
+
+### [P543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+Given the root of a binary tree, return the length of the diameter of the tree.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/diameter-of-binary-tree.py)
 
 ## Table of Contents (Topic Wise)
 
@@ -262,23 +278,23 @@ The testcases will be generated such that the answer is unique.
 ### [P2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 You are given a 0-indexed integer array nums and a target element target. A target index is an index i such that nums[i] == target. Return a list of the target indices of nums after sorting nums in non-decreasing order. If there are no target indices, return an empty list. The returned list must be sorted in increasing order.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/find-target-indices-after-sorting-array.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/find-target-indices-after-sorting-array.py)
 
 ### [P2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 You are given a 0-indexed array nums of n integers, and an integer k. The k-radius average for a subarray of nums centered at some index i with the radius k is the average of all elements in nums between the indices i - k and i + k (inclusive). If there are less than k elements before or after the index i, then the k-radius average is -1. Build and return an array avgs of length n where avgs[i] is the k-radius average for the subarray centered at index i.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/k-radius-subarray-averages.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/k-radius-subarray-averages.py)
 
 ### [P2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
 You are given a 0-indexed array of distinct integers nums. There is an element in nums that has the lowest value and an element that has the highest value. We call them the minimum and maximum respectively. Your goal is to remove both these elements from the array. A deletion is defined as either removing an element from the front of the array or removing an element from the back of the array. Return the minimum number of deletions it would take to remove both the minimum and maximum element from the array.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/removing-minimum-and-maximum-from-array.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/removing-minimum-and-maximum-from-array.py)
 
 ### [P2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
 You are given an integer n indicating there are n people numbered from 0 to n - 1. You are also given a 0-indexed 2D integer array meetings where meetings[i] = [xi, yi, timei] indicates that person xi and person yi have a meeting at timei. A person may attend multiple meetings at the same time. Finally, you are given an integer firstPerson.
 Person 0 has a secret and initially shares the secret with a person firstPerson at time 0. This secret is then shared every time a meeting takes place with a person that has the secret. More formally, for every meeting, if a person xi has the secret at timei, then they will share the secret with person yi, and vice versa.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/find-all-people-with-secret.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/find-all-people-with-secret.py)
 
 ### [2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string)
 You are given a binary string s and a positive integer k.
@@ -286,7 +302,7 @@ A substring of s is beautiful if the number of 1's in it is exactly k.
 Let len be the length of the shortest beautiful substring.
 Return the lexicographically smallest beautiful substring of string s with length equal to len. If s doesn't contain a beautiful substring, return an empty string.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/shortestBeautifulSubstring.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/shortestBeautifulSubstring.py)
 
 ### [P2903. Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/)
 You are given a 0-indexed integer array nums having length n, an integer indexDifference, and an integer valueDifference.
@@ -296,13 +312,13 @@ abs(nums[i] - nums[j]) >= valueDifference
 Return an integer array answer, where answer = [i, j] if there are two such indices, and answer = [-1, -1] otherwise. If there are multiple choices for the two indices, return any of them.
 Note: i and j may be equal.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/find-indices-with-index-and-value-difference-i.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/find-indices-with-index-and-value-difference-i.py)
 
 ### [P2905. Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/)
 You are given an integer n indicating there are n people numbered from 0 to n - 1. You are also given a 0-indexed 2D integer array meetings where meetings[i] = [xi, yi, timei] indicates that person xi and person yi have a meeting at timei. A person may attend multiple meetings at the same time. Finally, you are given an integer firstPerson.
 Person 0 has a secret and initially shares the secret with a person firstPerson at time 0. This secret is then shared every time a meeting takes place with a person that has the secret. More formally, for every meeting, if a person xi has the secret at timei, then they will share the secret with person yi, and vice versa.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/find-indices-with-index-and-value-difference-ii.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/find-indices-with-index-and-value-difference-ii.py)
 
 ### [P2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/)
 Given a 0-indexed 2D integer matrix grid of size n * m, we define a 0-indexed 2D matrix p of size n * m as the product matrix of grid if the following condition is met:
@@ -310,12 +326,12 @@ Given a 0-indexed 2D integer matrix grid of size n * m, we define a 0-indexed 2D
 Each element p[i][j] is calculated as the product of all elements in grid except for the element grid[i][j]. This product is then taken modulo 12345.
 Return the product matrix of grid.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/construct-product-matrix.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/construct-product-matrix.py)
 
 ### [P2899. Last Visited Integers](https://leetcode.com/problems/last-visited-integers/)
 Given a 0-indexed array of strings words where words[i] is either a positive integer represented as a string or the string "prev". Start iterating from the beginning of the array; for every "prev" string seen in words, find the last visited integer in words which is defined as follows: Let k be the number of consecutive "prev" strings seen so far (containing the current string). Let nums be the 0-indexed array of integers seen so far and nums_reverse be the reverse of nums, then the integer at (k - 1)th index of nums_reverse will be the last visited integer for this "prev". If k is greater than the total visited integers, then the last visited integer will be -1. Return an integer array containing the last visited integers.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/last-visited-integers.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/last-visited-integers.py)
 
 
 ### [P2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/)
@@ -323,13 +339,13 @@ You are given an integer n, a 0-indexed string array words, and a 0-indexed bina
 You need to select the longest subsequence from an array of indices [0, 1, ..., n - 1], such that for the subsequence denoted as [i0, i1, ..., ik - 1] having length k, groups[ij] != groups[ij + 1], for each j where 0 < j + 1 < k.
 Return a string array containing the words corresponding to the indices (in order) in the selected subsequence. If there are multiple answers, return any of them.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/longest-unequal-adjacent-groups-subsequence-i.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/longest-unequal-adjacent-groups-subsequence-i.py)
 
 ### [P2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/)
 Return a string array containing the words corresponding to the indices (in order) in the selected subsequence. If there are multiple answers, return any of them.
 A subsequence of an array is a new array that is formed from the original array by deleting some (possibly none) of the elements without disturbing the relative positions of the remaining elements.
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/topic_wise/LC_Contests/longest-unequal-adjacent-groups-subsequence-ii.py)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/longest-unequal-adjacent-groups-subsequence-ii.py)
 
 ## Contributing
 
