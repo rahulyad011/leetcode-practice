@@ -141,6 +141,48 @@ Given the root of a binary tree, return the length of the diameter of the tree.
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/diameter-of-binary-tree.py)
 
+### [P104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/maximum-depth-of-binary-tree.py)
+
+### [P217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/contains-duplicate.py)
+
+### [P53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+Given an integer array nums, find the subarray with the largest sum, and return its sum.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/maximum-subarray.py)
+
+## Week3
+
+### [P57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+You are given an API bool isBadVersion(version) which returns whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/insert-interval.py)
+
+### [P542. 01 Matrix](https://leetcode.com/problems/01-matrix/)
+Given an m x n binary matrix mat, return the distance of the nearest 0 for each cell. The distance between two adjacent cells is 1.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/01-matrix.py)
+
+### [P973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+Given an array of points where points[i] = [xi, yi] represents a point on the X-Y plane and an integer k, return the k closest points to the origin (0, 0).
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/k-closest-points-to-origin.py)
+
+### [P3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+Given a string s, find the length of the longest substring without repeating characters.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/longest-substring-without-repeating-characters.py)
+
+### [P102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/binary-tree-level-order-traversalpy)
+
 ## Table of Contents (Topic Wise)
 
 <!-- Use this section to provide quick navigation links to different data structures with the associated problems and solutions. -->
