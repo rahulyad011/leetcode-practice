@@ -389,6 +389,17 @@ A subsequence of an array is a new array that is formed from the original array 
 
 - [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/longest-unequal-adjacent-groups-subsequence-ii.py)
 
+### [P28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/find-the-index-of-the-first-occurrence-in-a-string.py)
+
+### [P35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+You must write an algorithm with O(log n) runtime complexity.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/LC_Contests/search-insert-position.py)
+
 ## Contributing
 
 If you'd like to contribute your solutions, feel free to fork this repository and submit a pull request.
