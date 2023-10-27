@@ -181,7 +181,17 @@ Given a string s, find the length of the longest substring without repeating cha
 ### [P102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
 
-- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/binary-tree-level-order-traversalpy)
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/binary-tree-level-order-traversal.py)
+
+### [P133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+Given a reference of a node in a connected undirected graph. Return a deep copy (clone) of the graph.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/clone-graph.py)
+
+### [P150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
+
+- [Solution](https://github.com/rahulyad011/leetcode-practice/blob/main/python_solutions/grind75/evaluate-reverse-polish-notation.py)
 
 ## Table of Contents (Topic Wise)
 
