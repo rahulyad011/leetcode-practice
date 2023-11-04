@@ -1,22 +1,21 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         """
-        Learning1: We need to find the lowest and then the corresponding highest peaks 
-        (please don't mistake it to global lowest and highest as high can only come after low(sell after buy))
-        Learning2: as we can check the selling profit at each sell and compare to the maxprofit
-        check whenever you see a peak from lowest point
+        Solution:
+        find the window of low and high having max difference, 
+        if low updated then update high as well as high can be ahead or equal day to low
         """
-
-        if not prices:
-            return 0
-        lowest = prices[0]
-        highest = 0
         max_profit = 0
+        low = 100000
+        high = 0
         for price in prices:
-            if price < lowest:
-                lowest = price
-            else:
-                highest = price
-                diff = highest - lowest
-                max_profit = diff if diff > max_profit else max_profit
+            if price < low:
+                low = price
+                high = low
+            if price > high:
+                high = price
+            max_profit = max(max_profit, high-low)
         return max_profit
+
+
+        
