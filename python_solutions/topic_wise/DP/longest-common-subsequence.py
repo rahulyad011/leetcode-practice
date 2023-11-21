@@ -31,11 +31,7 @@ class Solution:
         """sol3 top down DP solution"""
         n = len(text1)
         m = len(text2)
-        dp = [[-1 for i in range(n+1)] for i in range(m+1)]
-        for i in range(n+1):
-            dp[0][i]= 0
-        for j in range(m+1):
-            dp[j][0]= 0
+        dp = [[0 for i in range(n+1)] for i in range(m+1)]
         for i in range(1, m+1):
             for j in range(1, n+1):
                 if text1[j-1]==text2[i-1]:
