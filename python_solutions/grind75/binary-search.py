@@ -7,14 +7,16 @@ class Solution:
 
     def search(self, nums: List[int], target: int) -> int:
         """
-        iterative solution: using two pointers (l,r) and mid 
+        iterative solution: using two pointers (l,r) and mid
+        This can lead to overflow if l and r are large integers
+        better would be used mid = l + (r-l)//2
         """
         l = 0
         r = len(nums)-1
         mid = 0
         if not nums:
             return -1
-        while l <= r and l>=0 and r<len(nums):
+        while l <= r:
             mid = int((l + r)//2)
             if target == nums[mid]:
                 return mid
