@@ -62,13 +62,8 @@ class Solution:
         """
         # table for DP:
         # using constrait of N and W for the size of table
-        dp = [[-1 for i in range(W+1)] for j in range(n+1)]
-        
         # this base condition: least valid input(bag with no space and val)
-        for i in range(n+1):
-            for j in range(W+1):
-                if i == 0 or j == 0:
-                    dp[i][j]=0
+        dp = [[0 for i in range(W+1)] for j in range(n+1)]
                     
         # we will write the iterative solution similar to the recursive calls in memorization
         # each problem broken into multiple subproblems and solving these subproblems leads us 

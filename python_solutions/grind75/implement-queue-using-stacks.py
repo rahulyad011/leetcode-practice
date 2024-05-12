@@ -1,37 +1,35 @@
 class MyQueue:
-
     """
     Idea: the idea is simple here we focus all the work in the push operation
     at time of push we first take all the elements out in a temp stack and then
     insert new element in the main stack and then push all elements from temp to main
     """
-    stack_in = None
-    stack_temp = None
-
+    
     def __init__(self):
-        self.stack_in = []
-        self.stack_temp = []
+        self.temp_stack = []
+        self.main_stack = []
 
     def push(self, x: int) -> None:
-        # this is the main logic
-        # stack_in is our main stack so we maintain that
-        while self.stack_in:
-            out = self.stack_in.pop()
-            self.stack_temp.append(out)
-        self.stack_in.append(x)
-        while self.stack_temp:
-            out_t = self.stack_temp.pop()
-            self.stack_in.append(out_t)
+        # move all elements out of the main stack to put new element at the start of stack
+        while self.main_stack:
+            curr = self.main_stack.pop()
+            self.temp_stack.append(curr)
+        # now append the new element
+        self.main_stack.append(x)
+        #now move back all the other element to restore the existing order
+        while self.temp_stack:
+            curr = self.temp_stack.pop()
+            self.main_stack.append(curr)
 
     def pop(self) -> int:
-        out = self.stack_in.pop()
-        return out
+        return self.main_stack.pop()
 
     def peek(self) -> int:
-        return self.stack_in[-1]
+        return self.main_stack[-1]
 
     def empty(self) -> bool:
-        return not len(self.stack_in)
+        return not len(self.main_stack)
+        
 
 
 # Your MyQueue object will be instantiated and called as such:

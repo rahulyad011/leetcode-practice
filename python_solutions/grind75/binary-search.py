@@ -9,20 +9,24 @@ class Solution:
         """
         iterative solution: using two pointers (l,r) and mid 
         """
+        """
+        solution: take care of the edges cases in this question
+        for example: what if only 2 elements present thats why l<=r
+        mid = l + r-l/2
+        """
         l = 0
         r = len(nums)-1
-        mid = 0
-        if not nums:
-            return -1
-        while l <= r and l>=0 and r<len(nums):
-            mid = int((l + r)//2)
-            if target == nums[mid]:
+        mid=0
+        while l<=r:
+            mid = l+((r-l)//2)
+            if nums[mid] == target:
                 return mid
-            elif target > nums[mid]:
-                l = mid+1
+            elif nums[mid] > target:
+                r=mid-1
             else:
-                r = mid-1
+                l=mid+1
         return -1
+
 
         """
         recursive solution1: similar to the iterativ solution
